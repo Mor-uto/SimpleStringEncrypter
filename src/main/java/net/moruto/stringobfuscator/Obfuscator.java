@@ -3,7 +3,7 @@ package net.moruto.stringobfuscator;
 import java.util.Base64;
 import java.util.HashMap;
 
-public class ObfUtils {
+public class Obfuscator {
     public static HashMap<Character, Character> obf = new HashMap<>();
 
     static {
