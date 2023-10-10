@@ -1,2 +1,2 @@
-# StringObfuscator
-a simple non-bytecode string obfuscator
+# SimpleStringEncrypter
+A simple string encrypter
